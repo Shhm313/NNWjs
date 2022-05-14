@@ -30,13 +30,11 @@ function nnw(layers, train, input ,learn=100) {
      // training
      for (var i = 0; i < learn; i++) {
          
-         for (var i = 0; i < input; i++) {
          
-         all_weights["in"][i] = rand(1);
          
      }
          
-     }
+     
      
      
      
