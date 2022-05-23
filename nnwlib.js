@@ -1,3 +1,4 @@
+//NNWjs
 // Neuron Function
 function nrn(inputs, weights) {
     var out = 0;
